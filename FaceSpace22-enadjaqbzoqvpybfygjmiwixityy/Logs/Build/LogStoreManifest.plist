@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>C98A61F3-B198-433C-BF12-018DC4FC7E01</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>C98A61F3-B198-433C-BF12-018DC4FC7E01.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceSpace22 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceSpace22</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FaceSpace22</string>
+			<key>timeStartedRecording</key>
+			<real>612570221.69210804</real>
+			<key>timeStoppedRecording</key>
+			<real>612570228.67511106</real>
+			<key>title</key>
+			<string>Build FaceSpace22</string>
+			<key>uniqueIdentifier</key>
+			<string>C98A61F3-B198-433C-BF12-018DC4FC7E01</string>
+		</dict>
+		<key>F1E47695-35C1-4760-A90E-CA66D87124BE</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>F1E47695-35C1-4760-A90E-CA66D87124BE.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceSpace22 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceSpace22</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean FaceSpace22</string>
+			<key>timeStartedRecording</key>
+			<real>612570497.29275894</real>
+			<key>timeStoppedRecording</key>
+			<real>612570497.39913201</real>
+			<key>title</key>
+			<string>Clean FaceSpace22</string>
+			<key>uniqueIdentifier</key>
+			<string>F1E47695-35C1-4760-A90E-CA66D87124BE</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

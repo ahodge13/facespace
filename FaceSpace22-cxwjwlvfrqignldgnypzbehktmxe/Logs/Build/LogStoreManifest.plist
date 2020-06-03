@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>1AA75CA1-C437-4F0A-A58B-095079F172D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>1AA75CA1-C437-4F0A-A58B-095079F172D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceSpace22 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceSpace22</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Clean FaceSpace22</string>
+			<key>timeStartedRecording</key>
+			<real>612570037.53335798</real>
+			<key>timeStoppedRecording</key>
+			<real>612570037.60575402</real>
+			<key>title</key>
+			<string>Clean FaceSpace22</string>
+			<key>uniqueIdentifier</key>
+			<string>1AA75CA1-C437-4F0A-A58B-095079F172D1</string>
+		</dict>
+		<key>7C8FD5DC-6C2A-473A-9C1B-31E4B49D33EF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>7C8FD5DC-6C2A-473A-9C1B-31E4B49D33EF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceSpace22 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceSpace22</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FaceSpace22</string>
+			<key>timeStartedRecording</key>
+			<real>612570043.97120798</real>
+			<key>timeStoppedRecording</key>
+			<real>612570048.77530205</real>
+			<key>title</key>
+			<string>Build FaceSpace22</string>
+			<key>uniqueIdentifier</key>
+			<string>7C8FD5DC-6C2A-473A-9C1B-31E4B49D33EF</string>
+		</dict>
+		<key>D1BB5B6B-CEAE-4E99-9919-D5E37A06FBD9</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>D1BB5B6B-CEAE-4E99-9919-D5E37A06FBD9.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>FaceSpace22 project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>FaceSpace22</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build FaceSpace22</string>
+			<key>timeStartedRecording</key>
+			<real>612569959.68971598</real>
+			<key>timeStoppedRecording</key>
+			<real>612569970.83188701</real>
+			<key>title</key>
+			<string>Build FaceSpace22</string>
+			<key>uniqueIdentifier</key>
+			<string>D1BB5B6B-CEAE-4E99-9919-D5E37A06FBD9</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

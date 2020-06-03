@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "246a6442222738caff093bc734aa3472"
+build_time: [1590865345, 575997000]
+inputs:
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/LoginViewController.swift": [1590719604, 77227521]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/Elements Controllers/FirstCustomSegue.swift": [1590785977, 415715195]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/Elements Controllers/SecondCustomSegue.swift": [1590859455, 115123346]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/SignupViewController.swift": [1590719604, 48121412]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/ShopViewController.swift": [1590709622, 815687926]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/Helpers/PostTableViewCell.swift": [1589640268, 240000010]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/ProfileViewController.swift": [1590712355, 388040540]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/AppTabBarController.swift": [1590716359, 331258620]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/ViewController.swift": [1590687108, 948431736]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/AppDelegate.swift": [1590700435, 94408831]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/HomeViewController.swift": [1590859455, 155298082]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/Helpers/Utilities.swift": [1590548794, 537340089]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/Elements Controllers/FirstCustomSegueUnwind.swift": [1590859455, 128797465]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/SceneDelegate.swift": [1590703188, 303032447]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/Helpers/Constants.swift": [1590722038, 296093625]
+  "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/DiscoverViewController.swift": [1590859455, 102603125]

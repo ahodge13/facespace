@@ -1,0 +1,478 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FirstCustomSegue"
+provides-nominal:
+- "21FaceSpace_Interactive16FirstCustomSegueC"
+provides-member:
+- ["21FaceSpace_Interactive16FirstCustomSegueC", ""]
+provides-dynamic-lookup:
+- "perform"
+depends-top-level:
+- !private "-"
+- "AssignmentPrecedence"
+- !private "BooleanLiteralType"
+- !private "CGAffineTransform"
+- "FirstCustomSegue"
+- !private "FloatLiteralType"
+- !private "IntegerLiteralType"
+- "UIStoryboardSegue"
+- !private "UIView"
+depends-member:
+- !private ["So22UIViewAnimationOptionsV", "curveEaseInOut"]
+- !private ["So15CALayerDelegateP", "animate"]
+- !private ["So15CALayerDelegateP", "frame"]
+- !private ["So15CALayerDelegateP", "insertSubview"]
+- !private ["So15CALayerDelegateP", "superview"]
+- !private ["So15CALayerDelegateP", "transform"]
+- !private ["So17CGAffineTransformV", "init"]
+- !private ["So6CGRectV", "size"]
+- !private ["So6CGSizeV", "width"]
+- !private ["s7CVarArgP", "CGAffineTransform"]
+- !private ["s7CVarArgP", "UIView"]
+- ["s7CVarArgP", ""]
+- !private ["s7CVarArgP", "animate"]
+- !private ["s7CVarArgP", "destination"]
+- !private ["s7CVarArgP", "frame"]
+- !private ["s7CVarArgP", "insertSubview"]
+- !private ["s7CVarArgP", "present"]
+- !private ["s7CVarArgP", "source"]
+- !private ["s7CVarArgP", "superview"]
+- !private ["s7CVarArgP", "transform"]
+- !private ["s7CVarArgP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "CGAffineTransform"]
+- !private ["s28CustomDebugStringConvertibleP", "UIView"]
+- ["s28CustomDebugStringConvertibleP", ""]
+- !private ["s28CustomDebugStringConvertibleP", "animate"]
+- !private ["s28CustomDebugStringConvertibleP", "destination"]
+- !private ["s28CustomDebugStringConvertibleP", "frame"]
+- !private ["s28CustomDebugStringConvertibleP", "insertSubview"]
+- !private ["s28CustomDebugStringConvertibleP", "present"]
+- !private ["s28CustomDebugStringConvertibleP", "size"]
+- !private ["s28CustomDebugStringConvertibleP", "source"]
+- !private ["s28CustomDebugStringConvertibleP", "superview"]
+- !private ["s28CustomDebugStringConvertibleP", "transform"]
+- !private ["s28CustomDebugStringConvertibleP", "view"]
+- !private ["s28CustomDebugStringConvertibleP", "width"]
+- !private ["s17CustomReflectableP", "frame"]
+- !private ["s17CustomReflectableP", "size"]
+- !private ["s17CustomReflectableP", "superview"]
+- !private ["s17CustomReflectableP", "transform"]
+- !private ["s17CustomReflectableP", "width"]
+- !private ["s23CustomStringConvertibleP", "CGAffineTransform"]
+- !private ["s23CustomStringConvertibleP", "UIView"]
+- ["s23CustomStringConvertibleP", ""]
+- !private ["s23CustomStringConvertibleP", "animate"]
+- !private ["s23CustomStringConvertibleP", "destination"]
+- !private ["s23CustomStringConvertibleP", "frame"]
+- !private ["s23CustomStringConvertibleP", "insertSubview"]
+- !private ["s23CustomStringConvertibleP", "present"]
+- !private ["s23CustomStringConvertibleP", "source"]
+- !private ["s23CustomStringConvertibleP", "superview"]
+- !private ["s23CustomStringConvertibleP", "transform"]
+- !private ["s23CustomStringConvertibleP", "view"]
+- !private ["Se", "frame"]
+- !private ["Se", "init"]
+- !private ["Se", "size"]
+- !private ["Se", "superview"]
+- !private ["Se", "transform"]
+- !private ["Se", "width"]
+- !private ["SE", "frame"]
+- !private ["SE", "init"]
+- !private ["SE", "size"]
+- !private ["SE", "superview"]
+- !private ["SE", "transform"]
+- !private ["SE", "width"]
+- !private ["SQ", "CGAffineTransform"]
+- !private ["SQ", "UIView"]
+- ["SQ", ""]
+- !private ["SQ", "animate"]
+- !private ["SQ", "curveEaseInOut"]
+- !private ["SQ", "destination"]
+- !private ["SQ", "frame"]
+- !private ["SQ", "init"]
+- !private ["SQ", "insertSubview"]
+- !private ["SQ", "present"]
+- !private ["SQ", "size"]
+- !private ["SQ", "source"]
+- !private ["SQ", "superview"]
+- !private ["SQ", "transform"]
+- !private ["SQ", "view"]
+- !private ["SQ", "width"]
+- !private ["s25ExpressibleByArrayLiteralP", "curveEaseInOut"]
+- !private ["s23ExpressibleByNilLiteralP", "frame"]
+- !private ["s23ExpressibleByNilLiteralP", "superview"]
+- !private ["s23ExpressibleByNilLiteralP", "transform"]
+- !private ["21FaceSpace_Interactive16FirstCustomSegueC", "CGAffineTransform"]
+- !private ["21FaceSpace_Interactive16FirstCustomSegueC", "UIView"]
+- ["21FaceSpace_Interactive16FirstCustomSegueC", "deinit"]
+- !private ["21FaceSpace_Interactive16FirstCustomSegueC", "destination"]
+- ["21FaceSpace_Interactive16FirstCustomSegueC", "init"]
+- ["21FaceSpace_Interactive16FirstCustomSegueC", "perform"]
+- !private ["21FaceSpace_Interactive16FirstCustomSegueC", "source"]
+- !private ["SH", "CGAffineTransform"]
+- !private ["SH", "UIView"]
+- ["SH", ""]
+- !private ["SH", "animate"]
+- !private ["SH", "destination"]
+- !private ["SH", "frame"]
+- !private ["SH", "insertSubview"]
+- !private ["SH", "present"]
+- !private ["SH", "source"]
+- !private ["SH", "superview"]
+- !private ["SH", "transform"]
+- !private ["SH", "view"]
+- !private ["So8NSCodingP", "animate"]
+- !private ["So8NSCodingP", "frame"]
+- !private ["So8NSCodingP", "insertSubview"]
+- !private ["So8NSCodingP", "present"]
+- !private ["So8NSCodingP", "superview"]
+- !private ["So8NSCodingP", "transform"]
+- !private ["So8NSCodingP", "view"]
+- !private ["So26NSExtensionRequestHandlingP", "present"]
+- !private ["So26NSExtensionRequestHandlingP", "view"]
+- !private ["So8NSObjectC", "CGAffineTransform"]
+- !private ["So8NSObjectC", "UIView"]
+- !private ["So8NSObjectC", "animate"]
+- !private ["So8NSObjectC", "destination"]
+- !private ["So8NSObjectC", "frame"]
+- ["So8NSObjectC", "init"]
+- !private ["So8NSObjectC", "insertSubview"]
+- ["So8NSObjectC", "perform"]
+- !private ["So8NSObjectC", "present"]
+- !private ["So8NSObjectC", "source"]
+- !private ["So8NSObjectC", "superview"]
+- !private ["So8NSObjectC", "transform"]
+- !private ["So8NSObjectC", "view"]
+- !private ["So8NSObjectP", "CGAffineTransform"]
+- !private ["So8NSObjectP", "UIView"]
+- ["So8NSObjectP", ""]
+- !private ["So8NSObjectP", "animate"]
+- !private ["So8NSObjectP", "destination"]
+- !private ["So8NSObjectP", "frame"]
+- !private ["So8NSObjectP", "insertSubview"]
+- !private ["So8NSObjectP", "present"]
+- !private ["So8NSObjectP", "source"]
+- !private ["So8NSObjectP", "superview"]
+- !private ["So8NSObjectP", "transform"]
+- !private ["So8NSObjectP", "view"]
+- !private ["s9OptionSetP", "curveEaseInOut"]
+- !private ["Sq", "frame"]
+- !private ["Sq", "superview"]
+- !private ["Sq", "transform"]
+- !private ["SY", "curveEaseInOut"]
+- !private ["s10SetAlgebraP", "curveEaseInOut"]
+- !private ["So29UIAccessibilityIdentificationP", "animate"]
+- !private ["So29UIAccessibilityIdentificationP", "frame"]
+- !private ["So29UIAccessibilityIdentificationP", "insertSubview"]
+- !private ["So29UIAccessibilityIdentificationP", "superview"]
+- !private ["So29UIAccessibilityIdentificationP", "transform"]
+- !private ["So12UIAppearanceP", "animate"]
+- !private ["So12UIAppearanceP", "frame"]
+- !private ["So12UIAppearanceP", "insertSubview"]
+- !private ["So12UIAppearanceP", "superview"]
+- !private ["So12UIAppearanceP", "transform"]
+- !private ["So21UIAppearanceContainerP", "animate"]
+- !private ["So21UIAppearanceContainerP", "frame"]
+- !private ["So21UIAppearanceContainerP", "insertSubview"]
+- !private ["So21UIAppearanceContainerP", "present"]
+- !private ["So21UIAppearanceContainerP", "superview"]
+- !private ["So21UIAppearanceContainerP", "transform"]
+- !private ["So21UIAppearanceContainerP", "view"]
+- !private ["So18UIContentContainerP", "present"]
+- !private ["So18UIContentContainerP", "view"]
+- !private ["So17UICoordinateSpaceP", "animate"]
+- !private ["So17UICoordinateSpaceP", "frame"]
+- !private ["So17UICoordinateSpaceP", "insertSubview"]
+- !private ["So17UICoordinateSpaceP", "superview"]
+- !private ["So17UICoordinateSpaceP", "transform"]
+- !private ["So13UIDynamicItemP", "animate"]
+- !private ["So13UIDynamicItemP", "frame"]
+- !private ["So13UIDynamicItemP", "insertSubview"]
+- !private ["So13UIDynamicItemP", "superview"]
+- !private ["So13UIDynamicItemP", "transform"]
+- !private ["So18UIFocusEnvironmentP", "animate"]
+- !private ["So18UIFocusEnvironmentP", "frame"]
+- !private ["So18UIFocusEnvironmentP", "insertSubview"]
+- !private ["So18UIFocusEnvironmentP", "present"]
+- !private ["So18UIFocusEnvironmentP", "superview"]
+- !private ["So18UIFocusEnvironmentP", "transform"]
+- !private ["So18UIFocusEnvironmentP", "view"]
+- !private ["So11UIFocusItemP", "animate"]
+- !private ["So11UIFocusItemP", "frame"]
+- !private ["So11UIFocusItemP", "insertSubview"]
+- !private ["So11UIFocusItemP", "superview"]
+- !private ["So11UIFocusItemP", "transform"]
+- !private ["So20UIFocusItemContainerP", "animate"]
+- !private ["So20UIFocusItemContainerP", "frame"]
+- !private ["So20UIFocusItemContainerP", "insertSubview"]
+- !private ["So20UIFocusItemContainerP", "superview"]
+- !private ["So20UIFocusItemContainerP", "transform"]
+- !private ["So24UILargeContentViewerItemP", "animate"]
+- !private ["So24UILargeContentViewerItemP", "frame"]
+- !private ["So24UILargeContentViewerItemP", "insertSubview"]
+- !private ["So24UILargeContentViewerItemP", "superview"]
+- !private ["So24UILargeContentViewerItemP", "transform"]
+- !private ["So30UIPasteConfigurationSupportingP", "animate"]
+- !private ["So30UIPasteConfigurationSupportingP", "frame"]
+- !private ["So30UIPasteConfigurationSupportingP", "insertSubview"]
+- !private ["So30UIPasteConfigurationSupportingP", "present"]
+- !private ["So30UIPasteConfigurationSupportingP", "superview"]
+- !private ["So30UIPasteConfigurationSupportingP", "transform"]
+- !private ["So30UIPasteConfigurationSupportingP", "view"]
+- !private ["So11UIResponderC", "animate"]
+- !private ["So11UIResponderC", "frame"]
+- !private ["So11UIResponderC", "insertSubview"]
+- !private ["So11UIResponderC", "present"]
+- !private ["So11UIResponderC", "superview"]
+- !private ["So11UIResponderC", "transform"]
+- !private ["So11UIResponderC", "view"]
+- !private ["So30UIResponderStandardEditActionsP", "animate"]
+- !private ["So30UIResponderStandardEditActionsP", "frame"]
+- !private ["So30UIResponderStandardEditActionsP", "insertSubview"]
+- !private ["So30UIResponderStandardEditActionsP", "present"]
+- !private ["So30UIResponderStandardEditActionsP", "superview"]
+- !private ["So30UIResponderStandardEditActionsP", "transform"]
+- !private ["So30UIResponderStandardEditActionsP", "view"]
+- !private ["So16UIStateRestoringP", "present"]
+- !private ["So16UIStateRestoringP", "view"]
+- !private ["So17UIStoryboardSegueC", "CGAffineTransform"]
+- !private ["So17UIStoryboardSegueC", "UIView"]
+- ["So17UIStoryboardSegueC", ""]
+- !private ["So17UIStoryboardSegueC", "destination"]
+- ["So17UIStoryboardSegueC", "init"]
+- ["So17UIStoryboardSegueC", "perform"]
+- !private ["So17UIStoryboardSegueC", "source"]
+- !private ["So18UITraitEnvironmentP", "animate"]
+- !private ["So18UITraitEnvironmentP", "frame"]
+- !private ["So18UITraitEnvironmentP", "insertSubview"]
+- !private ["So18UITraitEnvironmentP", "present"]
+- !private ["So18UITraitEnvironmentP", "superview"]
+- !private ["So18UITraitEnvironmentP", "transform"]
+- !private ["So18UITraitEnvironmentP", "view"]
+- !private ["So23UIUserActivityRestoringP", "animate"]
+- !private ["So23UIUserActivityRestoringP", "frame"]
+- !private ["So23UIUserActivityRestoringP", "insertSubview"]
+- !private ["So23UIUserActivityRestoringP", "present"]
+- !private ["So23UIUserActivityRestoringP", "superview"]
+- !private ["So23UIUserActivityRestoringP", "transform"]
+- !private ["So23UIUserActivityRestoringP", "view"]
+- !private ["So6UIViewC", "animate"]
+- !private ["So6UIViewC", "frame"]
+- !private ["So6UIViewC", "insertSubview"]
+- !private ["So6UIViewC", "superview"]
+- !private ["So6UIViewC", "transform"]
+- !private ["So16UIViewControllerC", "present"]
+- !private ["So16UIViewControllerC", "view"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "size"]
+- !private ["s30_CustomPlaygroundQuickLookableP", "width"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "CGAffineTransform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "UIView"]
+- ["10Foundation27_KeyValueCodingAndObservingP", ""]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "animate"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "destination"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "frame"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "insertSubview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "present"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "source"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "superview"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "transform"]
+- !private ["10Foundation27_KeyValueCodingAndObservingP", "view"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "CGAffineTransform"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "UIView"]
+- ["10Foundation37_KeyValueCodingAndObservingPublishingP", ""]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "animate"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "destination"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "frame"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "insertSubview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "present"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "source"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "superview"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "transform"]
+- !private ["10Foundation37_KeyValueCodingAndObservingPublishingP", "view"]
+- !private ["s21_ObjectiveCBridgeableP", "frame"]
+- !private ["s21_ObjectiveCBridgeableP", "init"]
+- !private ["s21_ObjectiveCBridgeableP", "size"]
+- !private ["s21_ObjectiveCBridgeableP", "superview"]
+- !private ["s21_ObjectiveCBridgeableP", "transform"]
+- !private ["s21_ObjectiveCBridgeableP", "width"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "animate"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "frame"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "insertSubview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "superview"]
+- !private ["s38__DefaultCustomPlaygroundQuickLookableP", "transform"]
+depends-nominal:
+- !private "So22UIViewAnimationOptionsV"
+- !private "So15CALayerDelegateP"
+- !private "So17CGAffineTransformV"
+- !private "So6CGRectV"
+- !private "So6CGSizeV"
+- "s7CVarArgP"
+- "s28CustomDebugStringConvertibleP"
+- !private "s17CustomReflectableP"
+- "s23CustomStringConvertibleP"
+- !private "Se"
+- !private "SE"
+- "SQ"
+- !private "s25ExpressibleByArrayLiteralP"
+- !private "s23ExpressibleByNilLiteralP"
+- "21FaceSpace_Interactive16FirstCustomSegueC"
+- "SH"
+- !private "So8NSCodingP"
+- !private "So26NSExtensionRequestHandlingP"
+- "So8NSObjectC"
+- "So8NSObjectP"
+- !private "s9OptionSetP"
+- !private "Sq"
+- !private "SY"
+- !private "s10SetAlgebraP"
+- !private "So29UIAccessibilityIdentificationP"
+- !private "So12UIAppearanceP"
+- !private "So21UIAppearanceContainerP"
+- !private "So18UIContentContainerP"
+- !private "So17UICoordinateSpaceP"
+- !private "So13UIDynamicItemP"
+- !private "So18UIFocusEnvironmentP"
+- !private "So11UIFocusItemP"
+- !private "So20UIFocusItemContainerP"
+- !private "So24UILargeContentViewerItemP"
+- !private "So30UIPasteConfigurationSupportingP"
+- !private "So11UIResponderC"
+- !private "So30UIResponderStandardEditActionsP"
+- !private "So16UIStateRestoringP"
+- "So17UIStoryboardSegueC"
+- !private "So18UITraitEnvironmentP"
+- !private "So23UIUserActivityRestoringP"
+- !private "So6UIViewC"
+- !private "So16UIViewControllerC"
+- !private "s30_CustomPlaygroundQuickLookableP"
+- "10Foundation27_KeyValueCodingAndObservingP"
+- "10Foundation37_KeyValueCodingAndObservingPublishingP"
+- !private "s21_ObjectiveCBridgeableP"
+- !private "s38__DefaultCustomPlaygroundQuickLookableP"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/ObjectiveC.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMIDI.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreMedia.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/simd.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreImage.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/QuartzCore.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Dispatch.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Metal.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Darwin.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Foundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/AVFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreFoundation.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreAudio.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/CoreGraphics.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Swift.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/UIKit.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/SwiftOnoneSupport.swiftmodule/arm64.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphoneos/prebuilt-modules/Combine.swiftmodule/arm64-apple-ios.swiftmodule"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRMutableData.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageMetadata.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRUserMetadata.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRSnapshotMetadata.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageReference.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRDatabaseReference.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRCollectionReference.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRDocumentReference.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRFirestoreSource.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorage.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FirebaseStorage.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRDocumentChange.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthAPNSTokenType.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRDataEventType.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseCore/FirebaseCore.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRFirestore.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FirebaseFirestore.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRDatabase.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FirebaseDatabase.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Firebase/CoreOnly/Sources/Firebase.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthUIDelegate.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics+AppDelegate.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRFieldValue.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRServerValue.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRWriteBatch.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRFieldPath.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuth.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FirebaseAuth.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageDownloadTask.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageUploadTask.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageTask.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageObservableTask.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIROAuthCredential.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthCredential.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRPhoneAuthCredential.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseCore/FIRLoggerLevel.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FirebaseAuthVersion.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRMultiFactorSession.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRListenerRegistration.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseCore/FIRConfiguration.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRTransaction.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRMultiFactorAssertion.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRPhoneMultiFactorAssertion.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRUserInfo.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAdditionalUserInfo.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRMultiFactorInfo.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRPhoneMultiFactorInfo.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRTimestamp.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseCore/FIRApp.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIROAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRGitHubAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRFederatedAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRGoogleAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRPhoneAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRFacebookAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIREmailAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRGameCenterAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRTwitterAuthProvider.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRUser.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRMultiFactorResolver.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRPhoneMultiFactorGenerator.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRMultiFactor.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRAnalytics.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FirebaseAnalytics.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRParameterNames.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIREventNames.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Headers/FIRUserPropertyNames.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRActionCodeSettings.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRFirestoreSettings.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthSettings.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseCore/FIROptions.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRFirestoreErrors.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthErrors.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageConstants.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthDataResult.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseAuth/FIRAuthTokenResult.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRTransactionResult.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageListResult.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRGeoPoint.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRDataSnapshot.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseStorage/FIRStorageTaskSnapshot.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRDocumentSnapshot.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRQuerySnapshot.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseFirestore/FIRQuery.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Headers/Public/FirebaseDatabase/FIRDatabaseQuery.h"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/Firebase/CoreOnly/Sources/module.modulemap"
+- "/Users/jonavon/Library/Mobile Documents/com~apple~CloudDocs/FSDevelopment/FaceSpace22/Pods/FirebaseAnalytics/Frameworks/FirebaseAnalytics.framework/Modules/module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/objc/ObjectiveC.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/OpenGLES.framework/Headers/OpenGLES.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreMedia.framework/Headers/CoreMedia.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreImage.framework/Headers/CoreImage.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/QuartzCore.framework/Headers/QuartzCore.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/apinotes/Dispatch.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Metal.framework/Headers/Metal.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/usr/include/Darwin.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/AVFoundation.framework/Headers/AVFoundation.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CoreGraphics.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreAudioTypes.framework/Headers/CoreAudioTypes.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UserNotifications.framework/Headers/UserNotifications.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/AVKit.framework/Headers/AVKit.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/CoreText.framework/Headers/CoreText.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/MediaToolbox.framework/Headers/MediaToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/AudioToolbox.framework/Headers/AudioToolbox.apinotes"
+- "/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS13.4.sdk/System/Library/Frameworks/Security.framework/Headers/Security.apinotes"
+interface-hash: "965ad4b5a02f408666bc6487a7a46aa3"

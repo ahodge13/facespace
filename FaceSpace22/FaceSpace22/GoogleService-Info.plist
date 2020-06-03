@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>596403165063-v0nad0op2jgadcgi6hpkptgv23l0naf7.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.596403165063-v0nad0op2jgadcgi6hpkptgv23l0naf7</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC-xSUf9NBlXwbGBWTq3S7FLk2n8XSFO_s</string>
+	<key>GCM_SENDER_ID</key>
+	<string>596403165063</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.facespaceinc.FaceSpace22</string>
+	<key>PROJECT_ID</key>
+	<string>facespaceapp</string>
+	<key>STORAGE_BUCKET</key>
+	<string>facespaceapp.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:596403165063:ios:a968a0a69ee7fd3e44e522</string>
+	<key>DATABASE_URL</key>
+	<string>https://facespaceapp.firebaseio.com</string>
+</dict>
+</plist>

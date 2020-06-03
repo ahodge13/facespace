@@ -1,0 +1,20 @@
+version: "Apple Swift version 5.2.2 (swiftlang-1103.0.32.6 clang-1103.0.32.51)"
+options: "97a847c78c56fa220da19d68cbd1886b"
+build_time: [1590877244, 269188000]
+inputs:
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/LoginViewController.swift": !dirty [1590719604, 70000052]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/Elements Controllers/FirstCustomSegue.swift": !dirty [1590785977, 409999967]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/Elements Controllers/SecondCustomSegue.swift": !dirty [1590859455, 110000014]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/SignupViewController.swift": !dirty [1590719604, 39999962]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/ShopViewController.swift": !dirty [1590709622, 809999943]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/Helpers/PostTableViewCell.swift": !dirty [1589640268, 240000010]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/ProfileViewController.swift": !dirty [1590712355, 379999995]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/AppTabBarController.swift": !dirty [1590716359, 330000043]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/ViewController.swift": !dirty [1590687108, 940000057]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/AppDelegate.swift": !dirty [1590700435, 90000033]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/HomeViewController.swift": !dirty [1590859455, 149999976]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/Helpers/Utilities.swift": !dirty [1590548794, 529999971]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/Elements Controllers/FirstCustomSegueUnwind.swift": !dirty [1590859455, 120000005]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/SceneDelegate.swift": !dirty [1590703188, 299999952]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/Helpers/Constants.swift": !dirty [1590722038, 289999962]
+  "/Users/jonavon/Desktop/FSDevelopment/FaceSpace22/FaceSpace22/View Controllers/DiscoverViewController.swift": !dirty [1590859455, 100000024]

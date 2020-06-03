@@ -1,0 +1,6 @@
+module Pods_FaceSpace22 {
+  umbrella header "Pods-FaceSpace22-umbrella.h"
+
+  export *
+  module * { export * }
+}
